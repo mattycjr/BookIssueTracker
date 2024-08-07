@@ -12,36 +12,42 @@ Project consists of a digital library used to track iPads, books, and various eq
 - <b>Google Sheets</b> 
 - <b>Apps Scripts</b>
 
-<!--
-<h2>Program walk-through:</h2>
+<h2>Tracker walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+BookIssue - Landing Page/Main Page for interaction: <br/>
+ 
+![Tracker_BookIssue](https://github.com/user-attachments/assets/c63d5309-e4d4-4fdd-821e-74ab9995e385)
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DropDowns - Selection on BookIssue Sheet (main page):  <br/>
+
+![Tracker_DropDowns](https://github.com/user-attachments/assets/e62d3bc5-1c5d-474f-8ace-893ed7780b22)
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+CheckedOutTracker - This is where the data is written on an Issue or Update: <br/>
+
+![Tracker_CheckedOutTracker](https://github.com/user-attachments/assets/0b3264a2-2393-42b9-bdc3-2cbd412d1411)
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+MasterInventory - Stores the Master inventory, Transferred inventory, Damaged inventory, and list of Non-verified inventory:  <br/>
+
+![Tracker_MasterInventory](https://github.com/user-attachments/assets/6d38996a-f194-469e-aa8d-56cbb1d6ad09)
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+AdminStuff - Various Admin uses.  Count issued inventory, Total inventory, Total available inventory, etc:  <br/>
+
+![Tracker_AdminStuff](https://github.com/user-attachments/assets/8784d4c8-5275-4a26-a87d-6670446cc566)
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Archive - This is where the data is written on a Return.  Provides a nice history of who had what:  <br/>
+
+![Tracker_Archive](https://github.com/user-attachments/assets/27264bde-8ae7-4136-bb4c-9c5a8e1171dc)
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+SpazNotes - This ended up being an easy way to communicate to the book issue staff. (Spaz is my callsign/nickname):  <br/>
+
+![Tracker_SpazNotes](https://github.com/user-attachments/assets/44e8a636-5baa-4b73-adb1-e9a70653d1ba)
 </p>
 
 <!--
