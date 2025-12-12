@@ -14,41 +14,40 @@ Project consists of a digital library used to track iPads, books, and various eq
 
 <h2>Tracker walk-through:</h2>
 
-<p align="center">
-BookIssue - Landing Page/Main Page for interaction: <br/>
+<p align="center">BookIssue - Landing Page/Main Page for interaction: </p><br/>
  
-![Tracker_BookIssue](https://github.com/user-attachments/assets/c63d5309-e4d4-4fdd-821e-74ab9995e385)
+![Tracker_BookIssue](BookIssueTracker_BookIssue.png)
 <br />
 <br />
-DropDowns - Selection on BookIssue Sheet (main page):  <br/>
+<p align="center">DropDowns - Selection on BookIssue Sheet (Main page):  </p><br/>
 
-![Tracker_DropDowns](https://github.com/user-attachments/assets/e62d3bc5-1c5d-474f-8ace-893ed7780b22)
+![Tracker_DropDowns](BookIssueTracker_DropDowns.png)
 <br />
 <br />
-CheckedOutTracker - This is where the data is written on an Issue or Update: <br/>
+<p align="center">CheckedOutTracker - This is where the data is written on an Issue or Update: </p><br/>
 
-![Tracker_CheckedOutTracker](https://github.com/user-attachments/assets/0b3264a2-2393-42b9-bdc3-2cbd412d1411)
+![Tracker_CheckedOutTracker](BookIssueTracker_CheckedOutTracker.png)
 <br />
 <br />
-MasterInventory - Stores the Master inventory, Transferred inventory, Damaged inventory, and list of Non-verified inventory:  <br/>
+<p align="center">MasterInventory - Stores the Master inventory, Transferred inventory, Damaged inventory, and list of Non-verified inventory:  </p><br/>
 
-![Tracker_MasterInventory](https://github.com/user-attachments/assets/6d38996a-f194-469e-aa8d-56cbb1d6ad09)
+![Tracker_MasterInventory](BookIssueTracker_MasterInventory.png)
 <br />
 <br />
-AdminStuff - Various Admin uses.  Count issued inventory, Total inventory, Total available inventory, etc:  <br/>
+<p align="center">AdminStuff - Various Admin uses.  Count issued inventory, Total inventory, Total available inventory, etc:  </p><br/>
 
-![Tracker_AdminStuff](https://github.com/user-attachments/assets/8784d4c8-5275-4a26-a87d-6670446cc566)
+![Tracker_AdminStuff](BookIssueTracker_AdminStuff.png)
 <br />
 <br />
-Archive - This is where the data is written on a Return.  Provides a nice history of who had what:  <br/>
+<p align="center">Archive - This is where the data is written on a Return.  Provides a nice history of who had what:  </p><br/>
 
-![Tracker_Archive](https://github.com/user-attachments/assets/27264bde-8ae7-4136-bb4c-9c5a8e1171dc)
+![Tracker_Archive](BookIssueTracker_Archive.png)
 <br />
 <br />
-SpazNotes - This ended up being an easy way to communicate to the book issue staff. (Spaz is my callsign/nickname):  <br/>
+<p align="center">Notes - This ended up being an easy way to communicate to the book issue staff:  </p><br/>
 
-![Tracker_SpazNotes](https://github.com/user-attachments/assets/44e8a636-5baa-4b73-adb1-e9a70653d1ba)
-</p>
+![Tracker_Notes](BookIssueTracker_Notes.png)
+
 
 <!--
  ```diff
